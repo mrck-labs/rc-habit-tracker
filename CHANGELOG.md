@@ -1,3 +1,17 @@
+# 1.0.0 (2023-06-23)
+
+
+### Bug Fixes
+
+* simply amazing.. ([cf8c47d](https://github.com/mrck-labs/rc-habit-tracker/commit/cf8c47d596d95f7fe6e40ed0e99d0312222881ae))
+* update package.json ([5ae51ab](https://github.com/mrck-labs/rc-habit-tracker/commit/5ae51ab4046983e8b061500fce239d9a5f56375a))
+* update prettierignore ([fc31431](https://github.com/mrck-labs/rc-habit-tracker/commit/fc3143101f9ea49935904f83f51e755431147f28))
+
+
+### Features
+
+* add habit tracker dummy component ([63e7e59](https://github.com/mrck-labs/rc-habit-tracker/commit/63e7e594490e88a19f65a01e36889a123405bb85))
+
 # 1.0.0-beta.1 (2023-06-23)
 
 
