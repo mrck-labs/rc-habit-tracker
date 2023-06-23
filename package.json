@@ -1,11 +1,11 @@
 {
-    "name": "@mrck-labs/rc-template",
-    "version": "1.0.0",
+    "name": "@mrck-labs/rc-habit-tracker",
+    "version": "0.0.1",
     "author": "marckraw <marckraw@icloud.com>",
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/mrck-labs/mrck-rc-template.git"
+        "url": "git+https://github.com/mrck-labs/rc-habit-tracker.git"
     },
     "publishConfig": {
         "registry": "https://registry.npmjs.org/",
